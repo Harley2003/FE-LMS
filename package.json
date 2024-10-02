@@ -1,6 +1,7 @@
 {
   "name": "client",
   "version": "0.1.0",
+  "proxy": "https://be-lms-production.up.railway.app",
   "private": true,
   "scripts": {
     "dev": "next dev",
